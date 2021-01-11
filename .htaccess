@@ -1,0 +1,9 @@
+RewriteEngine on
+RewriteCond $1 !^(index.php|css|js|img|fonts) 
+RewriteRule ^(.*)$ ./index.php/$1 [L]
+
+#AuthName "Restricted Area"
+#AuthType Basic
+#AuthUserFile /home/mercalibre/web/www/.htpasswd
+#AuthGroupFile /dev/null
+#require valid-user

@@ -1,0 +1,343 @@
+.payments-small {
+	background: url(img/payment-logos.png) no-repeat;
+}
+
+._1019-small {
+	width: 44px;
+	height: 14px;
+	background-position: left 0;
+}
+
+._1024-small {
+	width: 80px;
+	height: 13px;
+	background-position: left -16px;
+}
+
+._amex-small,
+._157-small {
+	width: 22px;
+	height: 19px;
+	background-position: left -31px;
+}
+
+._1017-small {
+	width: 59px;
+	height: 16px;
+	background-position: left -52px;
+}
+
+._banamex-small,
+._159-small {
+	width: 85px;
+	height: 13px;
+	background-position: left -70px;
+}
+
+._debvisa-small {
+	width: 76px;
+	height: 11px;
+	background-position: left -85px;
+}
+
+._164-small {
+	width: 59px;
+	height: 11px;
+	background-position: left -98px;
+}
+
+._165-small {
+	width: 83px;
+	height: 15px;
+	background-position: left -111px;
+}
+
+._162-small,
+._master-small {
+	width: 26px;
+	height: 20px;
+	background-position: left -128px;
+}
+
+._debmaster-small {
+	width: 40px;
+	height: 20px;
+	background-position: left -150px;
+}
+
+._160-small,
+._serfin-small {
+	width: 91px;
+	height: 16px;
+	background-position: left -172px;
+}
+
+._1018-small {
+	width: 85px;
+	height: 15px;
+	background-position: left -190px;
+}
+
+._1020-small {
+	width: 40px;
+	height: 16px;
+	background-position: left -207px;
+}
+
+._1022-small {
+	width: 59px;
+	height: 13px;
+	background-position: left -225px;
+}
+
+._1023-small {
+	width: 71px;
+	height: 18px;
+	background-position: left -240px;
+}
+
+._166-small,
+._visa-small {
+	width: 34px;
+	height: 11px;
+	background-position: left -260px;
+}
+
+._1021-small {
+	width: 70px;
+	height: 14px;
+	background-position: left -273px;
+}
+
+._163-small {
+	width: 90px;
+	height: 9px;
+	background-position: left -289px;
+}
+
+._oxxo-small {
+	width: 36px;
+	height: 17px;
+	background-position: left -300px;
+}
+
+._158-small,
+._bancomer-small {
+	width: 50px;
+	height: 15px;
+	background-position: left -319px;
+}
+
+._mercadopagocard-small {
+	width: 33px;
+	height: 20px;
+	background-position: left -336px;
+}
+
+._account_money-small {
+	width: 28px;
+	height: 20px;
+	background-position: left -358px;
+}
+
+._1039-small {
+	width: 43px;
+	height: 18px;
+	background-position: left -380px;
+}
+
+._1046-small {
+	width: 74px;
+	height: 13px;
+	background-position: left -400px;
+}
+
+._12405-small {
+	width: 89px;
+	height: 17px;
+	background-position: left -415px;
+}
+
+._consumer_credits-small {
+	width: 74px;
+	height: 19px;
+	background-position: left -434px;
+}
+
+.payments-medium {
+	background: url(https://http2.mlstatic.com/secure/payment-logos/v2/payment-logos-mlm-medium_v_a54d14ea52.png) no-repeat;
+}
+
+._1019-medium {
+	width: 52px;
+	height: 16px;
+	background-position: left 0;
+}
+
+._1024-medium {
+	width: 95px;
+	height: 16px;
+	background-position: left -18px;
+}
+
+._amex-medium,
+._157-medium {
+	width: 24px;
+	height: 24px;
+	background-position: left -36px;
+}
+
+._1017-medium {
+	width: 63px;
+	height: 17px;
+	background-position: left -62px;
+}
+
+._banamex-medium,
+._159-medium {
+	width: 105px;
+	height: 16px;
+	background-position: left -81px;
+}
+
+._debvisa-medium {
+	width: 80px;
+	height: 14px;
+	background-position: left -99px;
+}
+
+._164-medium {
+	width: 70px;
+	height: 12px;
+	background-position: left -115px;
+}
+
+._165-medium {
+	width: 95px;
+	height: 17px;
+	background-position: left -129px;
+}
+
+._162-medium,
+._master-medium {
+	width: 33px;
+	height: 25px;
+	background-position: left -148px;
+}
+
+._debmaster-medium {
+	width: 53px;
+	height: 25px;
+	background-position: left -175px;
+}
+
+._160-medium,
+._serfin-medium {
+	width: 108px;
+	height: 19px;
+	background-position: left -202px;
+}
+
+._1018-medium {
+	width: 96px;
+	height: 17px;
+	background-position: left -223px;
+}
+
+._1020-medium {
+	width: 43px;
+	height: 18px;
+	background-position: left -242px;
+}
+
+._1022-medium {
+	width: 71px;
+	height: 15px;
+	background-position: left -262px;
+}
+
+._1023-medium {
+	width: 82px;
+	height: 21px;
+	background-position: left -279px;
+}
+
+._166-medium,
+._visa-medium {
+	width: 45px;
+	height: 14px;
+	background-position: left -302px;
+}
+
+._1021-medium {
+	width: 48px;
+	height: 28px;
+	background-position: left -318px;
+}
+
+._163-medium {
+	width: 87px;
+	height: 9px;
+	background-position: left -348px;
+}
+
+._oxxo-medium {
+	width: 37px;
+	height: 17px;
+	background-position: left -359px;
+}
+
+._158-medium,
+._bancomer-medium {
+	width: 60px;
+	height: 18px;
+	background-position: left -378px;
+}
+
+._mercadopagocard-medium {
+	width: 49px;
+	height: 30px;
+	background-position: left -398px;
+}
+
+._account_money-medium {
+	width: 31px;
+	height: 22px;
+	background-position: left -430px;
+}
+
+._1039-medium {
+	width: 53px;
+	height: 22px;
+	background-position: left -493px;
+}
+
+._1046-medium {
+	width: 91px;
+	height: 16px;
+	background-position: left -517px;
+}
+
+._12405-medium {
+	width: 117px;
+	height: 22px;
+	background-position: left -535px;
+}
+
+._consumer_credits-medium {
+	width: 89px;
+	height: 23px;
+	background-position: left -559px;
+}
+
+._telecomm-medium {
+	width: 68px;
+	height: 16px;
+	background-position: left -454px;
+}
+
+._7eleven-medium {
+	width: 19px;
+	height: 19px;
+	background-position: left -472px;
+}

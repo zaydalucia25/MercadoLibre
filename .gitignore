@@ -1,0 +1,37 @@
+.DS_Store
+/borrador
+application/cache/*
+!application/cache/index.html
+
+application/logs/*
+!application/logs/index.html
+
+!application/*/.htaccess
+
+composer.lock
+
+user_guide_src/build/*
+user_guide_src/cilexer/build/*
+user_guide_src/cilexer/dist/*
+user_guide_src/cilexer/pycilexer.egg-info/*
+/vendor/
+
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+/tests/tests/
+/tests/results/
+img/(373)_Accion_turbo!!!_-_YouTube_-_Google_Chrome1.png
+img/15571693.png
+img/52586520_1964183777038019_8139529111199547392_n.png
+img/flat,750x,075,f-pad,750x1000,f8f8f8.jpg
+img/julioprofe.png
+img/r1yzV1tPZ.gif
